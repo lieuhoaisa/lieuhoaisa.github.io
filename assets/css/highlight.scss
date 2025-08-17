@@ -4,17 +4,10 @@
 /**
  * highlight tokens
  * based on rougify command
- * tokens list: https://github.com/jneen/rouge/wiki/List-of-tokens
+ * tokens list: https://github.com/jneen/rouge/wiki/List-of-tokens 
  */
 
 @charset "utf-8";
-
-// Overrides
-@media (prefers-color-scheme: dark){
-  code{
-    filter: invert(1) hue-rotate(180deg);
-  }
-}
 
 .highlight {
   table {
@@ -38,7 +31,7 @@
     background-color: #c00;
   }
 
-  // 	Token for data not matched by a parser (e.g. HTML markup in PHP code)
+  //  Token for data not matched by a parser (e.g. HTML markup in PHP code)
   .x {
     color: #000;
   }
@@ -158,7 +151,7 @@
     color: #808;
   }
 
-  // 	For other names
+  //  For other names
   .nx {
     color: #000;
   }
@@ -358,11 +351,6 @@
     font-style: italic;
     font-weight: bold;
     color: #a52a2a;
-  }
-
-  // Preprocessor values such as <stdio.h> in C
-  .cpf {
-    color: #000;
   }
 
   // Comments that end at the end of the line
