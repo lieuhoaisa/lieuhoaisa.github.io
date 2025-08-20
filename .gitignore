@@ -10,3 +10,8 @@ Gemfile.lock
 
 # Mac OSX
 .DS_store
+
+# obsidian
+.obsidian/
+.gdb_history
+.trash/
