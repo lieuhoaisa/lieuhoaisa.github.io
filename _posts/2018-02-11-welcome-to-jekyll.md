@@ -43,3 +43,9 @@ ls -al
 ```
 
 ![](attachments/Pasted%20image%2020250820214127.png)
+
+![](../assets/images/Pasted%20image%2020250820215219.png)
+
+![](/assets/images/Pasted%20image%2020250820215301.png)
+
+3 dif path
