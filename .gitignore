@@ -15,3 +15,6 @@ Gemfile.lock
 .obsidian/
 .gdb_history
 .trash/
+
+# side effect of jekyll local deploy
+_site/
