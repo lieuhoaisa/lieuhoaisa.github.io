@@ -10,3 +10,12 @@ html {
   scrollbar-gutter: stable;
   background-color: #fefefe;
 }
+
+/* chatgpt spageti code*/
+
+/* to fix - in md doenst show bullet when deploy*/
+ul, ol {
+  list-style-type: disc;
+  padding-left: 2em;
+  margin-left: 0;
+}
