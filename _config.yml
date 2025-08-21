@@ -3,10 +3,10 @@
 # This is the configuration file for your blog, please change these items after forked.
 
 title: lieuhoaisa
-email: lieuhoaisa2614@gmail.com
+email:
 name: lieuhoaisa
 description: >- # this means to ignore newlines until "baseurl:"
-  vanishing...
+  (update later)
 keywords: [Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
